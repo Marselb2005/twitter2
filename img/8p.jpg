@@ -1,0 +1,11 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=6,shrink-to-fit=no"><meta name="google-site-verification" content="w_NTOn_TrHx87jlg5vvIAUFjxH7V2eoOX7jigGmfjeU"/><meta name="yandex-verification" content="2e21a87623bbbf71"/><meta name="theme-color" content="#FFFFFF"><meta name="msapplication-TileColor" content="#FFFFFF"><meta name="msapplication-TileImage" content="/favicon-144x144.png?1"><meta name="msvalidate.01" content="C6112BA8F3B79521F9B3AE556F010188"/><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-5QJTZ76",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script><link rel="manifest" href="/manifest.json?5"><link rel="shortcut icon" href="/favicon.png?1"><link rel="apple-touch-icon-precomposed" href="/favicon-152x152.png?1"><style>body{background:#000;margin:0;padding:0}</style><link href="https://im-01.forfun.com/ff/static/css/main.3764ddc5.css" rel="stylesheet"></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QJTZ76" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="root"></div><script type="text/javascript" src="https://im-01.forfun.com/ff/static/js/main.ce18f04b.js"></script></body><script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://forfun.com",
+    "name": "Forfun",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://forfun.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }</script></html>
